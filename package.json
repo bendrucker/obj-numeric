@@ -1,0 +1,30 @@
+{
+  "name": "obj-numeric",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Create an object with incremented numeric values from an array of keys",
+  "license": "MIT",
+  "repository": "bendrucker/obj-numeric",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "object",
+    "obj",
+    "numeric",
+    "array",
+    "keys"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
