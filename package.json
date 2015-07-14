@@ -1,7 +1,7 @@
 {
   "name": "obj-numeric",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create an object with incremented numeric values from an array of keys",
   "license": "MIT",
   "repository": "bendrucker/obj-numeric",
