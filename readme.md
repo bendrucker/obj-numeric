@@ -1,4 +1,4 @@
-# obj-numeric [![Build Status](https://travis-ci.org/bendrucker/obj-numeric.svg?branch=master)](https://travis-ci.org/bendrucker/obj-numeric)
+# obj-numeric [![Build Status](https://travis-ci.org/bendrucker/obj-numeric.svg?branch=master)](https://travis-ci.org/bendrucker/obj-numeric) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/obj-numeric.svg)](https://greenkeeper.io/)
 
 > Create an object with incremented numeric values from an array of keys
 
